@@ -1,0 +1,6 @@
+Revision history for Perl extension GSheet2TSV.
+
+0.01  Mon Jul 25 08:21:41 2016
+	- original version; created by h2xs 1.23 with options
+		-Ac -n GSheet2TSV
+
